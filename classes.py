@@ -15,3 +15,4 @@ a.y = 12
 print(a.x)
 print()
 print(a.y)
+print()
